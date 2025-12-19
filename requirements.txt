@@ -1,0 +1,17 @@
+# To-Do List Application Dependencies
+
+# Core dependencies (included with Python)
+# - tkinter (for GUI)
+# - json (for data storage)
+# - datetime (for date handling)
+# - hashlib (for password hashing)
+# - uuid (for unique IDs)
+
+# External dependencies
+tkcalendar==1.6.1  # For date picker in GUI
+
+# Optional for CLI version only (if you want color output)
+# colorama==0.4.6
+
+# For development and testing
+# pytest==7.4.3

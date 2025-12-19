@@ -1,0 +1,20 @@
+{
+  "samitha": {
+    "password_hash": "7f0c1f921aaee3380c35a0b227f67cf007ffb7fe36be2c144429ff37f0491904",
+    "created_at": "2025-12-19T08:31:20.259636",
+    "last_login": "2025-12-19T19:57:23.537415",
+    "task_count": 0,
+    "completed_tasks": 0
+  },
+  "bandara": {
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "created_at": "2025-12-19 08:39"
+  },
+  "kavindu": {
+    "password_hash": "5e0c4f27c20c0d2f99182d984d913e1611990c091150851c5483d575d9a6aedb",
+    "created_at": "2025-12-19T19:46:18.196066",
+    "last_login": "2025-12-19T19:46:24.595392",
+    "task_count": 0,
+    "completed_tasks": 0
+  }
+}
