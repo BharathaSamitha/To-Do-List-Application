@@ -12,6 +12,17 @@ A simple, fully functional To-Do List application built with Python and Tkinter.
 - ✅ Data persistence (saves to JSON files)
 - ✅ Clean, user-friendly interface
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add New task
+![AddNewTask](screenshots/addtask.png)
+
 ## 🚀 Installation & Running
 
 1. **Make sure you have Python installed** (Python 3.6 or higher)
