@@ -21,7 +21,7 @@ A simple, fully functional To-Do List application built with Python and Tkinter.
 ![Dashboard](screenshots/dashboard.png)
 
 ### Add New task
-![AddNewTask](screenshots/addtask.png)
+![AddNewTask](screenshots/add_task.png)
 
 ## 🚀 Installation & Running
 
